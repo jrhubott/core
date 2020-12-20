@@ -1,0 +1,3 @@
+[submodule "config/custom_components/homeseer"]
+	path = config/custom_components/homeseer
+	url = https://github.com/jrhubott/homeseer.git
