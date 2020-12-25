@@ -32,11 +32,6 @@
       "!include_dir_list scalar",
       "!include_dir_merge_list scalar",
       "!include_dir_merge_named scalar"
-    ],
-    "python.analysis.extraPaths": [
-      "config/custom_modules/pyhs3/",
-      "/workspaces/core/config/custom_modules/pyhs3",
-      "/workspaces/core/config/custom_modules/pyhs3/pyhs3ng",
-      "config/custom_modules/pyhs3/pyhs3ng"
+    ]
   }
 }
