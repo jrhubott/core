@@ -1,0 +1,6 @@
+[submodule "src/homeseer"]
+	path = src/homeseer
+	url = https://github.com/jrhubott/homeseer.git
+[submodule "src/pyhs3ng"]
+	path = src/pyhs3ng
+	url = https://github.com/jrhubott/pyhs3ng.git
